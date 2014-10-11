@@ -1,0 +1,12 @@
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe.config
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.pdb
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.Form1.resources
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.exe
+C:\Users\PC21\Desktop\sujon exm\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.pdb
+C:\Users\acer\Desktop\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe.config
+C:\Users\acer\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.exe
+C:\Users\acer\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.pdb
